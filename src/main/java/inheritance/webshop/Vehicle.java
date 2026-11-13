@@ -48,7 +48,7 @@ public class Vehicle extends Product {
         return model;
     }
 
-    public double getYear() {
+    public int getYear() {
         return year;
     }
 
